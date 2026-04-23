@@ -29,7 +29,10 @@ I am a seasoned **Module Lead** at **Happiest Minds Technologies** with a passio
 ---
 
 ### 📊 GitHub Activity
-![Sachin's GitHub stats](https://github.com/dobalsachin)
+
+![Sachin's GitHub stats](https://vercel.app)
+
+![Top Langs](https://vercel.app)
 
 ---
 
